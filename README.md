@@ -27,6 +27,7 @@
 ## ```DONASI```
 
 - [`SAWERIA`](https://saweria.co/ZeroYT7)
+- [`SOCIABUZZ`](https://sociabuzz.com/zeroyt7/tribe)
 
 <h3 align="left">My Project</h3>
 <p align="left">
