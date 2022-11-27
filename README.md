@@ -19,9 +19,8 @@
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
 <a href="https://instagram.com/Zero_YT7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6285157740529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6281548926840"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><br>
-<a href="https://tiktok.com/@_zeroyt7"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
 </p>
 
 ## ```DONASI```
@@ -31,6 +30,7 @@
 
 <h3 align="left">My Project</h3>
 <p align="left">
+  <a href="https://github.com/Zero-YT7/Popeye-MD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=Popeye-MD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
   <a href="https://github.com/Zero-YT7/Base-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=Base-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
   <a href="https://github.com/Zero-YT7/BaseNew-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=BaseNew-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
   <a href="https://github.com/Zero-YT7/BaseMD-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=BaseMD-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
